@@ -13,3 +13,6 @@ Nous rendrons dans notre rapport, des graphiques pour expliquer nos résultats, 
 Il nous faudra définir des spécification et les contraintes liées à notre projet. 
 
 Nous fournirons finalement notre code produit via GIT. 
+
+On commence par asservir le moteur avec un code arduino, il nous faut au préalable charger les librairies TimerFive et la Librairie MakeBlock.
+Si on veut visualiser l'angle avec le gyro dans le moniteur, il faut passer en Bode 115200
